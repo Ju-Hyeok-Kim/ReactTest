@@ -1,0 +1,6 @@
+C:\Users\daoudata_tech\Downloads\react-material-admin-master.zip
+----
+Babel의 Module Resolver
+import * as dateService from '@format/date';
+const month = dateService.formatMonth(new Date());
+---
