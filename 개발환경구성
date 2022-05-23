@@ -4,3 +4,15 @@
 
 3. 리액트 프로젝트 설치
 : npx create-react-app 원하는 이름
+
+4. package.json 최신화 및 ESLint 설치 및 기본 설정
+: npm init -y
+  npm i -D eslint
+  node_modules/.bin/eslint --init
+  https://www.daleseo.com/js-eslint/
+
+4. Prettier로 코딩 스타일 통일하기
+: https://www.daleseo.com/js-prettier/
+
+5. jsconfig.json??
+: https://basemenks.tistory.com/266
