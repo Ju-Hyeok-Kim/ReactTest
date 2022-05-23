@@ -1,0 +1,6 @@
+1. nodejs 설치
+: node -v
+2. npx 설치
+
+3. 리액트 프로젝트 설치
+: npx create-react-app 원하는 이름
