@@ -4,3 +4,9 @@ Babel의 Module Resolver
 import * as dateService from '@format/date';
 const month = dateService.formatMonth(new Date());
 ---
+
+-hook
+https://cocoon1787.tistory.com/796
+
+- 컴포넌트에 함수 전달하기
+https://ko.reactjs.org/docs/faq-functions.html
